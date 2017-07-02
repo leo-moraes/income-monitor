@@ -1,0 +1,167 @@
+{
+	"description": {
+		"message": "Visualizador de ganhos dos seus programas de afiliados"
+	},
+	"name": {
+		"message": "Income monitor"
+	},
+	"site": {
+		"message": "Site"
+	},
+	"add_site_sitename": {
+		"message": "Adicionar site: $sitename$",
+		"placeholders": {
+			"sitename": {
+				"content": "$1"
+			}
+		}
+	},
+	"login": {
+		"message": "Login"
+	},
+	"today": {
+		"message": "Hoje"
+	},
+	"yesterday": {
+		"message": "Ontem"
+	},
+	"month": {
+		"message": "Mês"
+	},
+	"predic": {
+		"message": "Predic."
+	},
+	"balance": {
+		"message": "Ganhos"
+	},
+	"intotal": {
+		"message": "No total"
+	},
+	"sites": {
+		"message": "Sites"
+	},
+	"add_site": {
+		"message": "Adicionar site"
+	},
+	"settings": {
+		"message": "Configurações"
+	},
+	"search_site": {
+		"description": "lower case",
+		"message": "procurar site"
+	},
+	"register": {
+		"message": "Sign up"
+	},
+	"site_description": {
+		"message": "Descrição:"
+	},
+	"about": {
+		"message": "Sobre a extensão"
+	},
+	"not_conv": {
+		"message": "Não converter"
+	},
+	"to_RUR": {
+		"message": "Em RUR"
+	},
+	"to_USD": {
+		"message": "Em USD"
+	},
+	"change_maspas": {
+		"message": "Trocar senha"
+	},
+	"conv_currency": {
+		"message": "Converter para uma moeda comum"
+	},
+	"hide_login": {
+		"message": "Ocultar coluna de login"
+	},
+	"hide_predic": {
+		"message": "Hide predic. column"
+	},
+	"apply": {
+		"message": "Aplicar"
+	},
+	"no_account": {
+		"message": "Não possui uma conta?"
+	},
+	"remove_site": {
+		"message": "Remover site"
+	},
+	"none": {
+		"message": "Nenhum"
+	},
+	"rate_extension": {
+		"message": "Avaliar extensão"
+	},
+	"bugreport": {
+		"message": "GitHub: feature request of bug report"
+	},
+	"auten_err": {
+		"message": "Erro de autenticação"
+	},
+	"parse_err": {
+		"message": "Parsing error"
+	},
+	"sitedescr_loveplanet": {
+		"message": "Affiliate programm of dating site loveplanet.ru. Payment to WebMoney and a Yandex.Money. Minimal - 300 RUR. Referral system."
+	},
+	"sitedescr_cpazilla": {
+		"message": "Affiliate program of dating site fotostrana.ru. Pay per registration, from 1 to 75 RUR depending on age and gender. Payment to WebMoney and ePayments. Minimal - 300 RUR. Referral system available."
+	},
+	"sitedescr_seriouspartner": {
+		"message": "Affiliate site contain collection of paid site on different themes: love, movies, products, adult, wapclick and other. High partners deductions: from 75% of revenue. Payments on the Webmoney (Z, R), PayPal, Paxum. Referral system available."
+	},
+	"sitedescr_mylove": {
+		"message": "Affiliate program dating site mylove.ru. Pay 50%-70% of users payments. Payments in RUR to WebMoney or Qiwi wallets. Referral program available."
+	},
+	"sitedescr_bongacash": {
+		"message": "Erotic video chat, pay up to $$3 per free registration. Payments to WebMoney, Paxum, Payoneer. Referral program available."
+	},
+	"sitedescr_trafficshop": {
+		"message": "Popular Exchange buying and selling adult traffic. It works with payment systems: Epassporte, credit card, wire transfer, PayPal and WebMoney."
+	},
+	"sitedescr_juicyads": {
+		"message": "One of the oldest and most well-known affiliate programm to earn money on adult advertising. Supported: Banner, Popunder, mobile redirect. The minimum amount of payment - $$50. Pay on PayPal, Paxum, Payza and a bank card."
+	},
+	"sitedescr_halileo": {
+		"message": "File affiliate program. Paying up to $$25 for 1000 downloads. Registering bonus - $$5. Minimal payout -$$15. Pay to WebMoney and ePayments. Referral program available."
+	},
+	"sitedescr_adsense": {
+		"message": "Most popular contextual advertising program. Payout to wire transfer or sending a check."
+	},
+	"sitedescr_exoclick": {
+		"message": "One of the most well-known ad networks for adult and entertainment. It works with all types of advertising: banners, popunder, clickunder, IM windows, etc. The minimum payment amount - $$20. Paid through Paypal, Payoneer, Paxum or bank transfer."
+	},
+	"sitedescr_mamba": {
+		"message": "Popular russian-language dating site. Pay a percentage of user charges. Payments only to PayPal."
+	},
+	"sitedescr_profitraf": {
+		"message": "Monetize download traffic. Links to download from your site converts so that loader was downloaded first. Loader install the advertiser software (Amigo browser - in particular), and then downloads your file. Work with traffic from Russia and the CIS. Pay 3 to 4,8 WMR for installation. Payments on WebMoney. Registration by invite only!"
+	},
+	"sitedescr_epn": {
+		"message": "Excellent affiliate program online AliExpress stores, Ozone etc. You get 8.5% of the cost of goods sold! There is a large collection of tools, banners, and even ready-made CMS Online Store. Withdrawal of funds at WM, Qiwi, Yandex, ePayments and bank cards."
+	},
+	"sitedescr_ad1": {
+		"message": "Reliable and well-known CPA network. Many popular offer of bonuses / discounts for client connection cabinets. <span class='nl imp'>Supported by the extension in test mode! If you see an error in displaying statistics - please contact the developer</span>"
+	},
+	"sitedescr_shakes": {
+		"message": "Product listing affiliate. Leader in losing weight and increasing. All products are unique and Landing. Large deductions from sales."
+	},
+	"sitedescr_redpays": {
+		"message": "Partner of one of the most popular adult dating sites. Payments in WMR up to 85% of earnings from the attracted user."
+	},
+	"cacheinfo": {
+		"message": "Important: The data in the table are cached for 10 minutes. Cached data is displayed in gray."
+	},
+	"note_add_pp": {
+		"message": "Waiting for your suggestions for adding affiliate programs"
+	},
+	"auth_cookies": {
+		"message": "To authorize the use of browser cookies. Login to your account in the usual way."
+	},
+	"decimal_places": {
+		"message": "Casas decimais"
+	}
+}
